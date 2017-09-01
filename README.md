@@ -1,4 +1,4 @@
-# groenveld_scrapinfo
+# groenveld-scrapinfo
 py script with exe-build to scrap resident info from Groenveld website with your credentials
 
 
